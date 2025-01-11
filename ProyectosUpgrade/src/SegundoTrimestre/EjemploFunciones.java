@@ -5,6 +5,9 @@ public class EjemploFunciones {
 		// Voy a crear una funcion que me permita elevar 'a' a la potencia 'b'
 		double resultado = potencia(2.8, 3.3);
 		System.out.println("El resultado de la 2.8 a 3.3 es: " + resultado);
-		
+	}
+	public static double potencia(double a, double b) {
+		double resultado = Math.pow(a, b);
+		return resultado;
 	}
 }
