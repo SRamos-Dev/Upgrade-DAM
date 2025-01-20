@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class Actividad5Ejercicio2 {
 
+    /* 
+    *Diferencias entre commit, push y pull:
+    *1. Commit: Guarda los cambios localmente en el historial del proyecto.
+    *2. Push: Sube los commits locales al repositorio remoto para compartirlos.
+    *3. Pull: Descarga los cambios del repositorio remoto y los fusiona con el local.
+    */
+    
     // Función para calcular combinaciones (n choose k) de forma recursiva
     public static int calcularCombinaciones(int n, int k) {
         if (k == 0 || k == n) {
