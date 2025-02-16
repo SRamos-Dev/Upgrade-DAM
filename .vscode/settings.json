@@ -3,5 +3,6 @@
         "ProyectosUpgrade\\src"
     ],
     "java.project.referencedLibraries": [],
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
