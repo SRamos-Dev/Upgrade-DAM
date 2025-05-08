@@ -2,8 +2,9 @@
     "java.project.sourcePaths": [
         "ProyectosUpgrade\\src"
     ],
+    "java.project.outputPath": "ProyectosUpgrade\\lib",
     "java.project.referencedLibraries": [
-        "ProyectosUpgrade/lib/*.jar"
+        "ProyectosUpgrade//lib//*.jar",
     ],
     "java.debug.settings.onBuildFailureProceed": true,
     "java.configuration.updateBuildConfiguration": "interactive"
