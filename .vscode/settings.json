@@ -6,8 +6,3 @@
     "java.debug.settings.onBuildFailureProceed": true,
     "java.configuration.updateBuildConfiguration": "interactive"
 }
-{
-    "java.project.referencedLibraries": [
-        "ProyectosUpgrade/lib/*.jar"
-    ]
-}
